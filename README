@@ -1,0 +1,8 @@
+MACsec Test Vectors
+
+This project aims to provide basic C code which can encapsulate and encrypt
+MACsec packets protected by the GCM-128 algorithm.  It uses Brian Gladman's
+openly available AES and GCM implementations for the encryption portion.
+
+Brian's home page: http://www.gladman.me.uk/
+
